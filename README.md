@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I’m Neha 👋
 
-<!--
-**neha272/neha272** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Data & Analytics Enthusiast | 💡 Problem Solver | 🚀 Turning data into decisions
 
-Here are some ideas to get you started:
+I’m a **Computer Science graduate student at Stevens Institute of Technology (GPA: 3.7/4.0)** with a strong interest in **data analytics, visualization, and data engineering**. I enjoy working with complex datasets, building insightful dashboards, and designing scalable data solutions that drive real business impact.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+With hands-on experience across **Python, SQL, BI tools, and cloud platforms**, I focus on transforming raw data into clear, actionable insights for both technical and non-technical audiences.
+
+---
+
+## 🔧 Skills Snapshot
+**Python | SQL | Tableau | Power BI | Spark | AWS | Databases | Data Visualization | Machine Learning**
+
+---
+
+## 🌱 Currently Exploring
+- Advanced data analytics & machine learning  
+- Cloud-based data engineering  
+- Scalable analytics systems  
+
+---
+
+## 🤝 Let’s Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/neha-sutariya/)
+- 📧 nsutariy@stevens.edu
+
+✨ Curious mind. Data-driven. Always learning.
